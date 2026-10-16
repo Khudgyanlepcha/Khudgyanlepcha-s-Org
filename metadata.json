@@ -1,0 +1,6 @@
+{
+  "name": "KhudGyan Gym — Strength, Conditioning & Personal Training",
+  "description": "Build your strength and transform your life at KhudGyan Gym. Explore strength training, personal coaching, functional fitness programs, flexible memberships, and book a free trial visit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
